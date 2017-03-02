@@ -1,0 +1,93 @@
+work:
+  stock:
+    projects:
+      - title: Wood Collection
+        description: Here are samples of currently available slabs and wood. I can source just about any type of wood in varying dimensions that work for you. we only use sustainable species.
+        images:
+          - wood-stock/image-1.jpg
+          - wood-stock/image-2.jpg
+          - wood-stock/image-3.jpg
+  designrestoration:
+    projects:
+      - title: Sewing Table Restoration
+        description: Restoration of an antique sewing table. Machine slot replaced with an authentic, functional brass sink
+        images:
+          - design-restoration/image-1.jpg
+          - design-restoration/image-2.jpg
+  intarsia:
+    projects:
+      - title: Frog
+        description: Intarsia pieces are individually cut and fitted together. All the colors are natural and reflect the type of wood used.
+        images:
+          - intarsia/frog/image-1.jpg
+      - title: Parrot
+        description:
+        images:
+          - intarsia/parrot/image-1.jpg
+          - intarsia/parrot/image-2.jpg
+      - title: Cat
+        description:
+        images:
+          - intarsia/cat/image-2.jpg
+          - intarsia/cat/image-1.jpg
+      - title: Elephant
+        description:
+        images:
+          - intarsia/elephant/image-1.jpg
+          - intarsia/elephant/image-2.jpg
+      - title: Underwater Seascape
+        description:
+        images:
+          - intarsia/underwater/image-1.jpg
+  mirrors:
+    projects:
+      - title: Tile Mirrors
+        description: I can create a mirror that fits any color scheme, size or “character” you want. There are No limits to what can be crafted
+        images:
+          - mirrors/image-1.jpg
+          - mirrors/image-2.jpg
+  tables:
+    projects:
+      - title: Crotched Slab Table
+        description: Table constructed from a crotched piece of ambrosia maple.  I have walnut and cherry slabs available as well.  There are no liits to size and types of legs that can be used.
+        images:
+          - tables/crotched-2/image-1.jpg
+          - tables/crotched-2/image-2.jpg
+          - tables/crotched-2/image-3.jpg
+          - tables/crotched-2/image-4.jpg
+      - title: Walnut Table
+        description: Table made from a live edge, Walnut slab. Metal hairpin legs.
+        images:
+          - tables/walnut/image-1.jpg
+          - tables/walnut/image-2.jpg
+          - tables/walnut/image-3.jpg
+      - title: Crotched Slab Table
+        description: Great art piece
+        images:
+          - tables/crotched-1/image-1.jpg
+  wineracks:
+    projects:
+      - title: Cedar Standing Wine Rack
+        description:
+        images:
+          - wine-racks/cedar/image-1.jpg
+      - title: Hanging Wine Racks
+        description:
+        images:
+          - wine-racks/hanging/image-1.jpg
+          - wine-racks/hanging/image-2.jpg
+      - title: Cook and Sip Wine Racks
+        description: Proudly display your wine and cookbooks, size and wood type built specific to your needs
+        images:
+          - wine-racks/cook-sip/image-1.jpg
+          - wine-racks/cook-sip/image-2.jpg
+          - wine-racks/cook-sip/image-3.jpg
+      - title: Table Top Space Savers
+        description: Get a pair of wine racks that surround your cookbooks or space saving original wine racks that say “you”
+        images:
+          - wine-racks/table-top/image-5.jpg
+          - wine-racks/table-top/image-1.jpg
+          - wine-racks/table-top/image-2.jpg
+          - wine-racks/table-top/image-3.jpg
+          - wine-racks/table-top/image-4.jpg
+        

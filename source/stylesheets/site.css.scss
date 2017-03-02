@@ -1,0 +1,33 @@
+@import 'vendor/ace';
+@import 'vendor/flickity';
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f4f4f4;
+  font-family: 'Hind', 'Helvetica Neue', Arial, sans-serif;
+
+  &:after {
+    background: url('../images/wood_pattern.png');
+    bottom: 0;
+    content: '';
+    left: 0;
+    opacity: .15;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+  }
+}
+
+.wrap {
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .15);
+  min-height: 100vh;
+}
+
+.logo {
+  max-width: 150px;
+}
+
+.image-tile {
+}
