@@ -13,6 +13,7 @@ $(document).ready(function() {
 		galleries.flickity({
 			cellAlign: 'left',
 			imagesLoaded: true,
+			lazyLoad: true,
 			wrapAround: true
 		})
 	}

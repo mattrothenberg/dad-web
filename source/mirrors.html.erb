@@ -10,9 +10,7 @@
 		</div>
 		<div class="col-12 sm-col-6 px3">
 			<div class="gallery">
-				<% project.images.each do |image| %>
-					<%= image_tag image, class: 'col-12' %>
-				<% end %>
+				<%= partial(:gallery, :locals => { :images => project.images, }) %>
 			</div>
 		</div>
 	</div>
