@@ -31,7 +31,7 @@ activate :contentful do |f|
 end
 
 data.site.category.each do |id, category|
-  proxy "/#{category.slug}.html", "/detail.html", :locals => { :products => category.products, :title => category.title }, :ignore => true
+  proxy "/#{category.slug}/index.html", "/detail.html", :locals => { :products => category.products, :title => category.title }, :ignore => true
 end
 
 # Reload the browser automatically whenever files change
@@ -44,11 +44,11 @@ end
 ###
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def nav_active(path)
+    current_page.path == path ? "active" : ""
+  end
+end
 
 # Build-specific configuration
 configure :build do

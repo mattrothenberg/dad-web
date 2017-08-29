@@ -1,0 +1,49 @@
+---
+:id: 3fHQG2ml3isoO0264i6gww
+:_meta:
+  :content_type_id: 6XwpTaSiiI2Ak2Ww0oi6qa
+  :updated_at: '2017-08-29T00:54:23+00:00'
+  :created_at: '2017-08-29T00:46:39+00:00'
+  :id: 3fHQG2ml3isoO0264i6gww
+:title: One of a Kind
+:category_description: One of a kind pieces
+:slug: one-of-a-kind
+:featured_product:
+  :title: IMG 9437-Edit
+  :description: 
+  :url: "//images.contentful.com/leru95nhtzzv/JKD5sHkuwSCeiwwESUQoE/468938cfad2f2f8468fece0a01e7d649/IMG_9437-Edit.jpg"
+  :_meta:
+    :updated_at: '2017-08-29T00:48:21+00:00'
+    :created_at: '2017-08-29T00:48:21+00:00'
+    :id: JKD5sHkuwSCeiwwESUQoE
+:products:
+- :id: 6G8Gli3Um42QUk6ocGG6q2
+  :_meta:
+    :content_type_id: 2PqfXUJwE8qSYKuM0U6w8M
+    :updated_at: '2017-08-29T00:54:01+00:00'
+    :created_at: '2017-08-29T00:54:01+00:00'
+    :id: 6G8Gli3Um42QUk6ocGG6q2
+  :product_name: Guitar
+  :slug: guitar
+  :image:
+  - :title: Photo Mar 05, 11 03 34 AM
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/5jJrUbd5Ne8SuyGqSGs0ik/ae89e7c710b34ddf1d3bdccbedd035e2/Photo_Mar_05__11_03_34_AM.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:53:45+00:00'
+      :created_at: '2017-08-29T00:53:45+00:00'
+      :id: 5jJrUbd5Ne8SuyGqSGs0ik
+  - :title: Photo Mar 05, 11 03 26 AM
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/3YuDkeZ7egcSg6csqkeYsC/951788f34cb066d4317e86dadaa53256/Photo_Mar_05__11_03_26_AM.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:53:45+00:00'
+      :created_at: '2017-08-29T00:53:45+00:00'
+      :id: 3YuDkeZ7egcSg6csqkeYsC
+  - :title: IMG 9437-Edit
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/4nPmEzX2co6cIcm6kYyKyw/a7905e531ccf8c47fdcea4b64c35763b/IMG_9437-Edit.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:53:45+00:00'
+      :created_at: '2017-08-29T00:53:45+00:00'
+      :id: 4nPmEzX2co6cIcm6kYyKyw

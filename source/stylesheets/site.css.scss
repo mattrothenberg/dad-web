@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #f4f4f4;
-  font-family: 'Hind', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Karla', 'Helvetica Neue', Arial, sans-serif;
 
   &:after {
     background: url('../images/wood_pattern.png');
@@ -30,4 +30,18 @@ body {
 }
 
 .image-tile {
+  object-fit: cover;
+  height: 305px;
+}
+
+.nav-link {
+  opacity: .45;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  &.active {
+    opacity: 1;
+  }
 }
