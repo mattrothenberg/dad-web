@@ -12,9 +12,11 @@ title: Rothenberg Wood
   <% categories = data.site.category.sort_by {|id, cat| cat.order} %>
   <% categories.each do |id, category| %>
     <div class="col-12 sm-col-4 px2 mb3">
-      <% link_to category.slug do %>
-        <img data-original="<%= category['featured_product'].url %>" class="image-tile col-12"/>
-      <% end %>
+      <figure class="image-tile mx0 my0">
+        <% link_to category.slug do %>
+          <img data-original="<%= category['featured_product'].url %>" class="image-tile col-12"/>
+        <% end %>
+      </figure>
       <h2 class="mb1">
         <%= category.title %>
       </h2>
