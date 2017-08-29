@@ -1,0 +1,107 @@
+---
+:id: 1zTMfuU9jmEyOAoQMEgKkc
+:_meta:
+  :content_type_id: 6XwpTaSiiI2Ak2Ww0oi6qa
+  :updated_at: '2017-08-29T00:28:23+00:00'
+  :created_at: '2017-08-29T00:21:40+00:00'
+  :id: 1zTMfuU9jmEyOAoQMEgKkc
+:title: Tables
+:category_description: From 1 to 3 inches thick. Wide array of legs
+:slug: tables
+:featured_product:
+  :title: cover
+  :description: 
+  :url: "//images.contentful.com/leru95nhtzzv/4ds037KQw0yeeWEeukgQik/c96c841a7e9da634f2de3d644042f72c/cover.jpg"
+  :_meta:
+    :updated_at: '2017-08-29T00:22:17+00:00'
+    :created_at: '2017-08-29T00:22:17+00:00'
+    :id: 4ds037KQw0yeeWEeukgQik
+:products:
+- :id: 35TlvLQdb2w6AqSgaigUmW
+  :_meta:
+    :content_type_id: 2PqfXUJwE8qSYKuM0U6w8M
+    :updated_at: '2017-08-29T00:24:12+00:00'
+    :created_at: '2017-08-29T00:22:53+00:00'
+    :id: 35TlvLQdb2w6AqSgaigUmW
+  :product_name: Crotched Slab Table
+  :slug: crotched-slab-table
+  :product_description: Table constructed from a crotched piece of ambrosia maple.
+    I have walnut and cherry slabs available as well. There are no limits to size
+    and types of legs that can be used.
+  :image:
+  - :title: image-4
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/2NBROxfNAkaWM8qQI8aAyG/c1b5cc627051214a9637caf5d5d7750c/image-4.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:23:40+00:00'
+      :created_at: '2017-08-29T00:23:40+00:00'
+      :id: 2NBROxfNAkaWM8qQI8aAyG
+  - :title: image-2
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/5KitPbykEgoA0ig4g6s6Wy/94a93f29616ac84f00573f947c7353f1/image-2.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:23:40+00:00'
+      :created_at: '2017-08-29T00:23:40+00:00'
+      :id: 5KitPbykEgoA0ig4g6s6Wy
+  - :title: image-1
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/6lCgtu872oq846IoUaOgyO/60784e600aa3e411153157fe30e90ec5/image-1.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:23:40+00:00'
+      :created_at: '2017-08-29T00:23:40+00:00'
+      :id: 6lCgtu872oq846IoUaOgyO
+  - :title: image-3
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/taJhqIQvUkGQGUeq0MqmY/ace0d6c612b1b854bde3e8ad07242884/image-3.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:23:40+00:00'
+      :created_at: '2017-08-29T00:23:40+00:00'
+      :id: taJhqIQvUkGQGUeq0MqmY
+- :id: 2vQCCcB9oo6ywY62uWUiIk
+  :_meta:
+    :content_type_id: 2PqfXUJwE8qSYKuM0U6w8M
+    :updated_at: '2017-08-29T00:26:45+00:00'
+    :created_at: '2017-08-29T00:26:45+00:00'
+    :id: 2vQCCcB9oo6ywY62uWUiIk
+  :product_name: Walnut Table
+  :slug: walnut-table
+  :product_description: Table made from a live edge, Walnut slab. Metal hairpin legs.
+  :image:
+  - :title: image-1
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/1utrC3q5r682UuiCyESQqu/44e98f65b4400ad0efaad1136620532d/image-1.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:26:19+00:00'
+      :created_at: '2017-08-29T00:26:19+00:00'
+      :id: 1utrC3q5r682UuiCyESQqu
+  - :title: image-2
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/3WueAQlnYAUQmEosO0uqkC/dd976d313b30a6d81338358de68436ed/image-2.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:26:19+00:00'
+      :created_at: '2017-08-29T00:26:19+00:00'
+      :id: 3WueAQlnYAUQmEosO0uqkC
+  - :title: image-3
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/6WUK6HqrrqGe06CaoSkKGU/72d7aec9e758ed4860adcb3bdfe8a5ed/image-3.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:26:19+00:00'
+      :created_at: '2017-08-29T00:26:19+00:00'
+      :id: 6WUK6HqrrqGe06CaoSkKGU
+- :id: 54zjaTK50kiMesOeqgYuGw
+  :_meta:
+    :content_type_id: 2PqfXUJwE8qSYKuM0U6w8M
+    :updated_at: '2017-08-29T00:28:13+00:00'
+    :created_at: '2017-08-29T00:28:13+00:00'
+    :id: 54zjaTK50kiMesOeqgYuGw
+  :product_name: Crotched Slab Table II
+  :slug: crotched-slab-table-ii
+  :product_description: Great art piece
+  :image:
+  - :title: image-1
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/4ATqYlDEYEeEEwcoaMAgAQ/647a8f40510fc7184917190cdf5f9651/image-1.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:27:42+00:00'
+      :created_at: '2017-08-29T00:27:42+00:00'
+      :id: 4ATqYlDEYEeEEwcoaMAgAQ

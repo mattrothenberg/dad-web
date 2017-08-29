@@ -1,0 +1,44 @@
+---
+:id: 5Sv0dLY33GYwiAQgqQ2O4q
+:_meta:
+  :content_type_id: 6XwpTaSiiI2Ak2Ww0oi6qa
+  :updated_at: '2017-08-29T00:20:54+00:00'
+  :created_at: '2017-08-29T00:19:56+00:00'
+  :id: 5Sv0dLY33GYwiAQgqQ2O4q
+:title: Mirrors
+:category_description: Custom made to your color, size and frame preferences
+:slug: mirrors
+:featured_product:
+  :title: cover
+  :description: 
+  :url: "//images.contentful.com/leru95nhtzzv/1oPuci1bYwmqGkoCO6Iqyu/081e09aa86cf28a370747649abeaef80/cover.jpg"
+  :_meta:
+    :updated_at: '2017-08-29T00:19:23+00:00'
+    :created_at: '2017-08-29T00:19:23+00:00'
+    :id: 1oPuci1bYwmqGkoCO6Iqyu
+:products:
+- :id: 2ENlna3coIEAMgYyuikg8g
+  :_meta:
+    :content_type_id: 2PqfXUJwE8qSYKuM0U6w8M
+    :updated_at: '2017-08-29T00:20:25+00:00'
+    :created_at: '2017-08-29T00:20:25+00:00'
+    :id: 2ENlna3coIEAMgYyuikg8g
+  :product_name: Tile Mirrors
+  :slug: tile-mirrors
+  :product_description: I can create a mirror that fits any color scheme, size or
+    “character” you want. There are No limits to what can be crafted
+  :image:
+  - :title: image-1
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/2fs7VUHPVqSAYqcIU2EOgs/576d16bcc452626181395b9cb604d46e/image-1.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:19:23+00:00'
+      :created_at: '2017-08-29T00:19:23+00:00'
+      :id: 2fs7VUHPVqSAYqcIU2EOgs
+  - :title: image-2
+    :description: 
+    :url: "//images.contentful.com/leru95nhtzzv/6hhDOCz0SAS0GkseuGiCOM/131e97a9003ac0ac742fb56f6f5c4c29/image-2.jpg"
+    :_meta:
+      :updated_at: '2017-08-29T00:19:23+00:00'
+      :created_at: '2017-08-29T00:19:23+00:00'
+      :id: 6hhDOCz0SAS0GkseuGiCOM
