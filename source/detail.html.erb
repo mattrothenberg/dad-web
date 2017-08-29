@@ -13,7 +13,9 @@
     <div class="col-12 sm-col-6 px3">
       <div class="gallery">
         <% product.image.each do |image| %>
-          <img data-flickity-lazyload="<%= image.url %>" alt="Image">
+          <div class="gallery-cell flex items-center justify-center">
+            <img class="gallery-img" data-flickity-lazyload="<%= image.url %>" alt="Image">
+          </div>
         <% end %>
       </div>
     </div>

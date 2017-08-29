@@ -45,3 +45,27 @@ body {
     opacity: 1;
   }
 }
+
+.gallery {
+  background: #222;
+}
+
+.gallery-cell {
+  background: #222;
+  height: 500px;
+  width: 100%;
+}
+
+.gallery-img {
+  display: block;
+  max-height: 85%;
+  margin: 0 auto;
+  max-width: 100%;
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+
+.gallery-img.flickity-lazyloaded,
+.gallery-img.flickity-lazyerror {
+  opacity: 1;
+}
