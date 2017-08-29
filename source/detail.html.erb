@@ -1,0 +1,21 @@
+<div class="my2">
+  <h1 class="regular">
+    <%= title %>
+  </h1>
+</div>
+
+<% products.each do |product| %>
+  <div class="sm-flex flex-wrap mxn3">
+    <div class="col-12 sm-col-6 px3 mb2 sm-mb0">
+      <h2 class="mb0"><%= product['product_name'] %></h2>
+      <p class="mt0"><%= product['product_description'] %></p>
+    </div>
+    <div class="col-12 sm-col-6 px3">
+      <div class="gallery">
+        <% product.image.each do |image| %>
+          <img data-flickity-lazyload="<%= image.url %>" alt="Image">
+        <% end %>
+      </div>
+    </div>
+  </div>
+<% end %>

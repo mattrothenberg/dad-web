@@ -12,3 +12,4 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'middleman', '~> 4.2'
 gem 'middleman-livereload', '~> 3.4'
 gem 'middleman-sprockets'
+gem 'contentful_middleman', :git => "git@github.com:contentful/contentful_middleman.git", :branch => "dl/upgrade-to-v4"

@@ -21,6 +21,19 @@ page '/*.txt', layout: false
 activate :sprockets
 activate :directory_indexes
 
+activate :contentful do |f|
+  f.access_token = 'df7bbab3d567a7899b8ac453afdd6f0b747b89e30c63f90b85e25f86447d3c8f'
+  f.space = { site: 'leru95nhtzzv' }
+  f.rebuild_on_webhook = false
+  f.content_types = {
+    category: '6XwpTaSiiI2Ak2Ww0oi6qa'
+  }
+end
+
+data.site.category.each do |id, category|
+  proxy "/#{category.slug}.html", "/detail.html", :locals => { :products => category.products, :title => category.title }, :ignore => true
+end
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload

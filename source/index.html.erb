@@ -7,47 +7,19 @@ title: Rothenberg Wood
     <h1 class="regular">Art Rothenberg is an artisan <strong>wood-worker</strong> and <strong>craftsman</strong>, based in Louisville, KY</h1>
   </div>
 </div>
+
 <div class="sm-flex flex-wrap mxn2 mt3 sm-mt4">
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'stock' do %>
-      <%= image_tag 'wood-stock/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Available Wood Stock</h2>
-    <p class="mt0">Like a particular kind of wood? What can I make for you?</p>
-  </div>
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'design-restoration' do %>
-      <%= image_tag 'design-restoration/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Design &amp; Restoration</h2>
-    <p class="mt0">Repurposing the old to new</p>
-  </div>
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'intarsia' do %>
-      <%= image_tag 'intarsia/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Intarsia</h2>
-    <p class="mt0">Each piece handcut. Domestic and exotic woods. Natural finish, never stained</p>
-  </div>
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'mirrors' do %>
-      <%= image_tag 'mirrors/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Mirrors</h2>
-    <p class="mt0">Custom made to your color, size and frame preferences</p>
-  </div>
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'tables' do %>
-      <%= image_tag 'tables/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Tables</h2>
-    <p class="mt0">From 1 to 3 inches thick. Wide array of legs</p>
-  </div>
-  <div class="col-12 sm-col-4 px2 mb2">
-    <% link_to 'wine-racks' do %>
-      <%= image_tag 'wine-racks/cover.jpg', class: 'image-tile col-12' %>
-    <% end %>
-    <h2 class="mb0">Wine Racks</h2>
-    <p class="mt0">Limited only by your imagination/</p>
-  </div>
+  <% data.site.category.each do |id, category| %>
+    <div class="col-12 sm-col-4 px2 mb2">
+      <% link_to category.slug do %>
+        <%= image_tag category['featured_product'].url, class: 'image-tile col-12' %>
+      <% end %>
+      <h2 class="mb1">
+        <%= category.title %>
+      </h2>
+      <p class="mt0">
+        <%= category['category_description'] %>
+      </p>
+    </div>
+  <% end %>
 </div>
