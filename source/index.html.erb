@@ -9,8 +9,7 @@ title: Rothenberg Wood
 </div>
 
 <div class="sm-flex flex-wrap mxn2 mt3 sm-mt4">
-  <% categories = data.site.category.sort_by {|id, cat| cat.order} %>
-  <% categories.each do |id, category| %>
+  <% data.site.categories.first[1].cat_list_categories.each do |category| %>
     <div class="col-12 sm-col-4 px2 mb3">
       <figure class="image-tile mx0 my0">
         <% link_to category.slug do %>
